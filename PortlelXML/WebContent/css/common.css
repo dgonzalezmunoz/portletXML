@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+
+.h2{
+	color:blue;
+	font-style:italic;
+	font-family:"Arial";
+}
+textarea{
+	overflow-y: scroll;
+	 height: 100px;
+}

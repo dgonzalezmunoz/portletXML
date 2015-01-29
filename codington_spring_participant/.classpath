@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.beans-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JAVA101_01/Desktop/Ada/EjemplosSpring/org.springframework.core-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.asm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.context-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.expression-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.16-bin.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.jdbc-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.aop-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.transaction-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.utility"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

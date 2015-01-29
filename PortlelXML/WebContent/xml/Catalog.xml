@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+	<videogames>
+		<game>
+		    <name>
+		    	Final Fantasy XIII
+		    </name>
+			<price>
+			 	50.00
+			</price>
+		</game>
+		<game>
+		    <name>
+		    	Assasins Creed
+		    </name>
+			<price>
+			 	30.00
+			</price>
+		</game>
+		<game>
+		    <name>
+		    	Fifa 15
+		    </name>
+			<price>
+			 	50.00
+			</price>
+		</game>
+		<game>
+		    <name>
+		    	GTA 5
+		    </name>
+			<price>
+			 	40.00
+			</price>
+		</game>
+		<game>
+		    <name>
+		     Borderlands II
+		    </name>
+			<price>
+			 	10.00
+			</price>
+		</game>
+	
+	</videogames>
+    <books>
+    
+    </books>
+
+</store>

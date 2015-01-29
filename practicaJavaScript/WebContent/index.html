@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>practicaJavaScript</title>
+</head>
+<body>
+<input id='inputUser' onKeyUp='submit()' size=60/><button OnClick='submit()'> Submit </button>
+<div id='result'></div>
+<div id='feedback' onClick='goodbye()'></div>
+<input id='valuenu' size=30/><button OnClick='switchcase(outputvalue("valuenu","outputsh"))'>Switch</button>
+<div id='outputsh'></div>
+<script type='text/javascript' src='common.js'></script>
+<script type='text/javascript' >
+
+document.getElementById('feedback').innerHTML='<P><font color=red>Hello World!</font>';
+function goodbye()
+{
+	document.getElementById('feedback').innerHTML='<P><font color=green>Goodbye</font>';
+}
+function submit()
+{
+	
+		
+	
+	var inf=document.getElementById('inputUser').value;
+	document.getElementById('result').innerHTML='You typed :' + inf;
+	
+}
+
+
+function switchcase(x)
+{
+    
+	switch (true){
+		case (x==1):alert('The value is 1!'); break;
+		case (x==5):alert('The value is 5!'); break;
+		default:alert('The vaule is different of  1 and 5 ');
+	}
+	
+	}
+	
+	
+</script>
+<?php
+echo "My first PHP script!";
+?>  
+
+
+<a href='50_15.html'>Bienvenido al 50 x 15</a>
+</body>
+</html>
